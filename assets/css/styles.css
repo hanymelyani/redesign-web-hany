@@ -1,31 +1,65 @@
-/* Menambahkan sedikit margin di sekitar logo */
-.navbar-brand img {
-    margin-right: 10px;
-    height: 70px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Lokal dengan CSS dan JS Kustom</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    
 
-/* Mengatur warna latar belakang navbar dan teks */
-.navbar {
-    background-color: #82b1df; /* Warna latar belakang terang */
-}
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="assets/img/cropped-LOGO2-2.png" alt="Logo" class="d-inline-block align-top">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle active" href="#" id="homeDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Home
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="homeDropdown">
+                        <a class="dropdown-item" href="#">Introduction</a>
+                        <a class="dropdown-item" href="#">Mission</a>
+                        <a class="dropdown-item" href="#">Vision</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Project
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Investasi Kavling Premium</a>
+                        <a class="dropdown-item" href="#">Perumahan Subsidi</a>
+                        <div class="dropdown-divider"></div>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+    
 
-/* Mengatur gaya tautan navigasi */
-.nav-link {
-    color: #343a40; /* Warna teks gelap */
-    transition: color 0.3s ease; /* Efek transisi saat hover */
-}
 
-/* Mengubah warna tautan navigasi saat hover */
-.nav-link:hover {
-    color: #007bff; /* Warna biru saat hover */
-}
 
-/* Menambah gaya pada tombol navbar-toggler di mode mobile */
-.navbar-toggler {
-    border-color: #007bff; /* Warna biru untuk border tombol */
-}
+    
 
-/* Menyesuaikan warna ikon navbar-toggler */
-.navbar-toggler-icon {
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%280, 123, 255, 1%29' stroke-width='2' linecap='round' linejoin='round' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
-}
+    
+    <!-- Memuat Bootstrap JS lokal -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+</body>
+</html>
