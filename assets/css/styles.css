@@ -35,3 +35,27 @@
     height: 500px; /* Anda dapat menyesuaikan tinggi sesuai kebutuhan */
     object-fit: cover;
 }
+
+.social-icons .social-icon {
+    width: 24px; /* Adjust the width as needed */
+    height: 24px; /* Adjust the height as needed */
+}
+
+.social-icons .social-icon img {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer {
+    background-color: #333; /* Ubah warna latar belakang sesuai kebutuhan */
+}
+
+.social-icon {
+    width: 24px; /* Sesuaikan ukuran ikon sesuai kebutuhan */
+    height: 24px; /* Sesuaikan ukuran ikon sesuai kebutuhan */
+}
+
+.social-icon img {
+    max-width: 100%;
+    height: auto;
+}
