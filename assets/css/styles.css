@@ -8,6 +8,7 @@ body {
 /* Menambahkan sedikit margin di sekitar logo */
 .navbar-brand img {
     margin-right: 10px;
+    height: 30px;
 }
 
 /* Mengatur warna latar belakang navbar dan teks */
