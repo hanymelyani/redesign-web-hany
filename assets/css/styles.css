@@ -1,23 +1,37 @@
 /* styles.css */
+
+/* Mengatur padding untuk body */
 body {
-    background-color: #f8f9fa;
+    padding: 20px;
 }
 
-h1 {
-    color: #007bff;
+/* Menambahkan sedikit margin di sekitar logo */
+.navbar-brand img {
+    margin-right: 10px;
 }
 
-#customButton {
-    margin-top: 20px;
+/* Mengatur warna latar belakang navbar dan teks */
+.navbar {
+    background-color: #f8f9fa; /* Warna latar belakang terang */
 }
 
-/* Menambahkan gaya untuk logo navbar */
-#navbarLogo {
-    height: 40px;
-    width: auto;
+/* Mengatur gaya tautan navigasi */
+.nav-link {
+    color: #343a40; /* Warna teks gelap */
+    transition: color 0.3s ease; /* Efek transisi saat hover */
 }
 
-/* Mengatur navbar di pojok kanan */
-.navbar-brand {
-    margin-right: auto;
+/* Mengubah warna tautan navigasi saat hover */
+.nav-link:hover {
+    color: #007bff; /* Warna biru saat hover */
+}
+
+/* Menambah gaya pada tombol navbar-toggler di mode mobile */
+.navbar-toggler {
+    border-color: #007bff; /* Warna biru untuk border tombol */
+}
+
+/* Menyesuaikan warna ikon navbar-toggler */
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%280, 123, 255, 1%29' stroke-width='2' linecap='round' linejoin='round' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
