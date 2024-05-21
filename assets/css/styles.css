@@ -16,3 +16,8 @@ h1 {
     height: 40px;
     width: auto;
 }
+
+/* Mengatur navbar di pojok kanan */
+.navbar-brand {
+    margin-right: auto;
+}
