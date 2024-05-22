@@ -1,9 +1,8 @@
 # redesign-web-hany
 
-# BEFORE REDESIGN
-## HOME 1
-### deskripsi...
+# (BEFORE) HOME 1
+### Web sebelum tidak memiliki navbar, teks perkenalan tidak rapi, dan daftar project yang merupakan dropdown navbar pelatakannya salah
 ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(Before)%20Navbar.png)
-## HOME 2
-### deskripsi....
- ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(Before)%20Home.png)
+# (AFTER) HOME 2
+### Saya membuatkan navbar, merapikan teks perkenalan dan membuatkan dropdown di navbar bagian project
+ ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Home.png)
