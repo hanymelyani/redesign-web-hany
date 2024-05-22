@@ -7,17 +7,25 @@
 ### Saya membuatkan navbar, menyatukan teks perkenalan, dan logo ditempatkan di kiri supaya terlihat rapi 
  ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Home.png)
 
- # (BEFORE) Konten 1
+ # (BEFORE) KONTEN 1
  ### Konten sebelumnya memiliki gambar terlalu kecil
  ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(Before)%20Konten%201.png)
- # (AFTER) Konten 1
+ # (AFTER) KONTEN 1
  ### Saya membuat teks dan gambarnya dengan ukuran lebih besar
  ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Konten%201.png)
 
- # (BEFORE) Konten 2
- ### 
+ # (BEFORE) KONTEN 2
+ ### Web sebelumnya tidak memiliki penjelasan tentang video tentang youtube 
  ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(Before)%20Konten%202.png)
  ###
- # (AFTER) Konten 2
- ###
+ # (AFTER) KONTEN 2
+ ### Menambahkan penjelasan singkat mengenai video youtube dari ems land
  ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Konten%202.png)
+
+ # (BEFORE) FOOTER
+ ### Footer sebelumnya terlihat berantakan dan tidak memiliki social media yang bisa diakses
+ ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(Before)%20Footer.png)
+
+ # (AFTER) FOOTER
+ ### Merapikan tampilan footer dan menambahkan social media yang dapat diakses
+ ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Footer.png)
