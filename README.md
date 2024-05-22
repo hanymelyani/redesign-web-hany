@@ -12,7 +12,7 @@
  ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(Before)%20Konten%201.png)
  # (AFTER) KONTEN 1
  ### Saya membuat teks dan gambarnya dengan ukuran lebih besar
- ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Konten%201.png)
+ ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Konten%202.png)
 
  # (BEFORE) KONTEN 2
  ### Web sebelumnya tidak memiliki penjelasan tentang video tentang youtube 
@@ -20,7 +20,7 @@
  ###
  # (AFTER) KONTEN 2
  ### Menambahkan penjelasan singkat mengenai video youtube dari ems land
- ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Konten%202.png)
+ ![text](https://github.com/hanymelyani/redesign-web-hany/blob/main/Screenshot/(After)%20Footer.png)
 
  # (BEFORE) FOOTER
  ### Footer sebelumnya terlihat berantakan dan tidak memiliki social media yang bisa diakses
